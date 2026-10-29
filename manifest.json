@@ -1,0 +1,13 @@
+
+{
+  "name": "Notre bulle",
+  "short_name": "À deux",
+  "description": "Un espace privé pour partager des questions, des souvenirs et des défis en couple.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#100d20",
+  "theme_color": "#21152f"
+}
